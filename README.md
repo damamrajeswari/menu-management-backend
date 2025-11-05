@@ -18,14 +18,14 @@ Backend API for the Menu Management application. Provides endpoints to manage ca
 
 ## Prerequisites
 - Git
-- Node.js & npm (or pnpm)
-- MongoDB (local installation or hosted Atlas)
+- Node.js & npm 
+- MongoDB 
 
 ## Setup Instructions
 
 1. Clone repository
 ```bash
-git clone <repo-url> .
+git clone https://github.com/damamrajeswari/menu-management-backend
 ```
 
 2. Install dependencies
